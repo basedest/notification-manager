@@ -48,5 +48,5 @@ Oh, almost forgot, you need to install the dependencies first. If you somehow do
 yarn
 ```
 
-> **Note:**
+> ⚠️ **Note:**
 There's no way to make a new administrator user within the app for security reasons, so you have to register as user and then change user role to 'administrator' in database.
